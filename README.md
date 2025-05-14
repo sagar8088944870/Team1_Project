@@ -16,5 +16,5 @@ A simple web-based interface for students to register, log in, and track their s
 
 ### How to Run
 1. Clone the repo:
-   ```bash  git clone  https://github.com/sagar8088944870/Team1_Project/tree/master
- 
+   ```bash
+   git clone https://github.com/sagar8088944870/Team1_Project/edit/master/README.md
