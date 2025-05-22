@@ -1,6 +1,8 @@
-
-This one is present in Test6
+<<<<<<< HEAD
+This one is present in test6
+=======
 Testing merge in Master
+>>>>>>> master
 <!DOCTYPE html>
 <html lang="en">
 <head>
